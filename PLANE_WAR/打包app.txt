@@ -1,0 +1,1 @@
+pyinstaller -F -w plane_war.py -i player.ico
